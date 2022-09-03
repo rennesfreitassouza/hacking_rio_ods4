@@ -1,5 +1,5 @@
 # hacking_rio_ods4
-Repositório para o projeto para a ODS 4 apresentado no Hacking.Rio 2022
+Repositório com o código do projeto para a ODS 4 apresentado no Hacking.Rio 2022 pela equipe 21.
 
 ## Como executar este projeto na máquina local
 
