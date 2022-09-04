@@ -1,5 +1,5 @@
 # Plataforma educacional - 2022
-### Grupo 4Stars / ODS 4 - Educação de qualidade - Desafio SEBRAE
+### Equipe 21 / ODS 4 - Educação de qualidade - Desafio SEBRAE
 
 #### Apresentação 
 
