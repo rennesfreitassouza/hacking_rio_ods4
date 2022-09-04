@@ -23,7 +23,7 @@ Para desenvolver um primeiro protótipo do projeto, as ferramentas utilizadas fo
 - Ativar esse virtual environment com o comando:<p>
   `hackathon\Scripts\activate.bat`<p>
 - Clonar este repositório acessando:<p>
-  `https://github.com/hackingrio/hackingrio-2022-ods-4-desafio-sebrae-rj-4stars/archive/refs/heads/master.zip`<p>
+  `https://github.com/rennesfreitassouza/hacking_rio_ods4/archive/refs/heads/main.zip`<p>
 - Extrair os arquivos do arquivo baixado.<p>
 - Acessar o diretório com o mesma ferramenta de linha de comando em que o virtual environment está ativado.<p>
 - Instalar os módulos necessários com o comando:<p>
